@@ -1,0 +1,6 @@
+{
+  "name": "KaamMate – Neighborhood Task & Helper Marketplace",
+  "description": "Connect with verified nearby helpers within 5 km for everyday chores, errands, repairs, and skilled assistance with transparent pricing and live task tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
